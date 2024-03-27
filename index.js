@@ -14,17 +14,20 @@ app.get('/college',(req,res)=>{
         {
             id:1,
             name:'College of Science and Technology',
-            desc:'college xjkldld'
+            desc:'college xjkldld',
+            pdf:'https://drive.google.com/file/d/1CowJQbv6_GvSLKROfriWfb9ZVkUu5PQ3/view?usp=sharing'
         },
         {
             id:2,
             name:'College of Science and Technology',
-            desc:'college xjkldld'
+            desc:'college xjkldld',
+            pdf:'https://drive.google.com/file/d/1CowJQbv6_GvSLKROfriWfb9ZVkUu5PQ3/view?usp=sharing'
         },
         {
             id:3,
             name:'College of Science and Technology',
-            desc:'college xjkldld'
+            desc:'college xjkldld',
+            pdf:'https://drive.google.com/file/d/1CowJQbv6_GvSLKROfriWfb9ZVkUu5PQ3/view?usp=sharing'
         }
 
         
