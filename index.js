@@ -250,7 +250,6 @@ app.get("/Cse", (req, res) => {
           subject: "Physics",
           Title: "Chemistry",
           credit: "Credit 5.5",
-          pdf:"https://www.flipsnack.com/EBB9F5AA9F7/btech-1-sem-chemistry-100103-2022/full-view.html",
           Module: [
             {
               Mod_id:1,
