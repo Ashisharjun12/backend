@@ -240,6 +240,40 @@ app.get("/Cse", (req, res) => {
       ]
 
       
+    },
+    {
+      id: 2,
+      sem: "Semester - 2",
+      sem_data: [
+        {
+          Sub_id:1,
+          subject: "Physics",
+          Title: "Chemistry",
+          credit: "Credit 5.5",
+          Module: [
+            {
+              Mod_id:1,
+              Mod: "Module - 1",
+              Mod_Title: "Atomic And Molecular Structur ( 10 Lecture )",
+              Desc: "Faliure of Classical Newtonian and Maxwell Wave,\nMechanics To Explain Properties Of At Atomic And Sub-Atomic Level ,\n ElectroMagnetic Radition ,\nDual Nature Of PhotoElectric Effect and Heisenberg Uncertinity Principle,\n Failure of Earlier Theroies To Explain Certain Properties Of Molecubles Like Paramagnetic Properties , \n Principle For Combinition Of Atomic Orbital To Form Molecular Orbitals, \n Formation Of Homo And Hetro Diatomic Molecubles \n Plot Of Energy Level Diagram Of Molecubar Orbitals, \n Coordination Numbers And Geometries \n Isomerism In Transitional Metal Compounds \n Crystal Field Theory And Energy Level Diagrams For Transition Metal Ions And Their Magnetic Properties.  ",
+            },
+            {
+              Mod_id:2,
+              Mod: "Module - 2",
+              Mod_Title: "Atomic And Molecular Structur ( 10 Lecture )",
+              Desc: "Faliure of Classical Newtonian and Maxwell Wave,\nMechanics To Explain Properties Of At Atomic And Sub-Atomic Level ,\n ElectroMagnetic Radition ,\nDual Nature Of PhotoElectric Effect and Heisenberg Uncertinity Principle,\n Failure of Earlier Theroies To Explain Certain Properties Of Molecubles Like Paramagnetic Properties , \n Principle For Combinition Of Atomic Orbital To Form Molecular Orbitals, \n Formation Of Homo And Hetro Diatomic Molecubles \n Plot Of Energy Level Diagram Of Molecubar Orbitals, \n Coordination Numbers And Geometries \n Isomerism In Transitional Metal Compounds \n Crystal Field Theory And Energy Level Diagrams For Transition Metal Ions And Their Magnetic Properties.  ",
+            },
+            {
+              Mod_id:3,
+              Mod: "Module - 3",
+              Mod_Title: "Atomic And Molecular Structur ( 10 Lecture )",
+              Desc: "Faliure of Classical Newtonian and Maxwell Wave,\nMechanics To Explain Properties Of At Atomic And Sub-Atomic Level ,\n ElectroMagnetic Radition ,\nDual Nature Of PhotoElectric Effect and Heisenberg Uncertinity Principle,\n Failure of Earlier Theroies To Explain Certain Properties Of Molecubles Like Paramagnetic Properties , \n Principle For Combinition Of Atomic Orbital To Form Molecular Orbitals, \n Formation Of Homo And Hetro Diatomic Molecubles \n Plot Of Energy Level Diagram Of Molecubar Orbitals, \n Coordination Numbers And Geometries \n Isomerism In Transitional Metal Compounds \n Crystal Field Theory And Energy Level Diagrams For Transition Metal Ions And Their Magnetic Properties.  ",
+            }
+          ]
+        },
+      ]
+
+      
     }
 
   ]
