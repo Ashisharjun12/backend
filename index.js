@@ -214,7 +214,6 @@ app.get("/Cse", (req, res) => {
         {
           Sub_id:1,
           subject: "Chemistry",
-          Title: "Chemistry",
           credit: "Credit 5.5",
           Module: [
             {
@@ -248,7 +247,6 @@ app.get("/Cse", (req, res) => {
         {
           Sub_id:1,
           subject: "Physics",
-          Title: "Chemistry",
           credit: "Credit 5.5",
           Module: [
             {
