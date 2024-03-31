@@ -215,6 +215,7 @@ app.get("/Cse", (req, res) => {
           Sub_id:1,
           subject: "Chemistry",
           credit: "Credit 5.5",
+          rating:"4.5",
           Module: [
             {
               Mod_id:1,
@@ -248,6 +249,7 @@ app.get("/Cse", (req, res) => {
           Sub_id:1,
           subject: "Physics",
           credit: "Credit 5.5",
+          rating:"4.5",
           Module: [
             {
               Mod_id:1,
